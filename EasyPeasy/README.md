@@ -1,10 +1,10 @@
 ## CTF Challenge Writeup: Easy Peasy - Binary Exploitation
 
-**Challenge Name:** Easy Peasy  
-**Category:** Binary Exploitation  
-**Points:** 100  
-**Author:** BitR13x
-**Difficulty:** Beginner
+- **Challenge Name:** Easy Peasy  
+- **Category:** Binary Exploitation  
+- **Points:** 100  
+- **Author:** BitR13x
+- **Difficulty:** Beginner
 
 **Description:**
 Welcome to "Easy Peasy," a beginner-level binary exploitation challenge! Your task is to exploit a vulnerable binary and gain control of the eip register. The flag is located in a file named "flag.txt" on the system. Read the contents of "flag.txt" and submit it to the CTF platform to claim your points.
