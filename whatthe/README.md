@@ -2,9 +2,9 @@
 
 ## Challenge Description
 
-**Title:** WhatThe - Reversing Challenge
-**Category:** Reversing
-**Description:** In this reversing challenge, you are provided with an gzip file named "whatThe.py.gz". The objective is to reverse engineer the file and find the hidden flag. Can you figure out "whatThe" is going on?
+- **Title:** WhatThe - Reversing Challenge
+- **Category:** Reversing
+- **Description:** In this reversing challenge, you are provided with an gzip file named "whatThe.py.gz". The objective is to reverse engineer the file and find the hidden flag. Can you figure out "whatThe" is going on?
 
 ## Challenge Files
 
