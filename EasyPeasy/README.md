@@ -146,7 +146,7 @@ Dump of assembler code for function win:
 ...
 ```
 
-We can't take the first two address so the stack is not overflowed and don't segfault before printing the flag.
+We can't take the first two address to avoid stack alignment problems and don't segfault before printing the flag.
 
 **Step 6: Retrieve the Flag:**
 Once the exploit is crafted, run the binary with the exploit payload to gain `flag.txt`.
